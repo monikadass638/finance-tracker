@@ -100,18 +100,6 @@ function Budget() {
                   </button>
                 </td>
               </tr>
-              <tr>
-                <td colSpan="5" className="text-center py-4">
-                  <button
-                    type="button"
-                    className="btn btn-secondary fs-5"
-                    data-bs-toggle="modal"
-                    data-bs-target="#addTransactionModal"
-                  >
-                    Add Transactions
-                  </button>
-                </td>
-              </tr>
             </tbody>
           </table>
         </div>
